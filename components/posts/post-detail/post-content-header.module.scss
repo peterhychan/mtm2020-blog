@@ -1,0 +1,9 @@
+.header {
+  border: 2rem solid #212529;
+}
+  
+@media (min-width: 768px) {
+  .header h1 {
+    font-size: 3.5rem;
+  }
+} 
