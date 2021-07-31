@@ -1,6 +1,6 @@
 ---
 title: 'Getting Started with MtM 2020'
-date: '2021-07-30'
+date: '2021-07-18'
 image: getting-started-with-mtm2020.jpg
 excerpt: To start with Master the Mainframe 2020, you need these configurations...
 isFeatured: true
